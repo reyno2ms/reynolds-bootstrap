@@ -1,0 +1,148 @@
+@charset "UTF-8";
+/* Add your custom CSS declarations below  */
+
+
+nav {
+    background-color:#323232;
+}
+.row2 {
+    background-color:#FFFFFF; 
+    min-height:45px;
+}
+header {
+    background-color:#EAEFF3;
+}
+footer {
+    background-color:#EAEFF3;
+}
+.row3 {
+    background-color:#F5F5F3;
+    min-height:30px;
+}
+.card {
+    width:300px;
+}
+.row5 {
+    text-align:center;
+}
+li {
+    padding-left:65px;
+    padding-right:65px;
+}
+a {
+    color:#FFFFFF;
+    font-family: roc-grotesk,sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+a:hover {
+    color: #7E8FA1;
+}
+.card {
+    text-align:center;
+}
+.card-img-overlay {
+    padding-top:100px;
+    font-family: roc-grotesk,sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.smalllogo {
+    text-align:right;
+    padding:25px;
+    padding-right:35px;
+}
+.footer1 {
+    font-family: sarah-script,sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size:35px;
+    padding:35px;
+}
+.carousel {
+    padding-bottom:10px;
+    position: relative;
+    padding-top: 55px;
+    padding-top:0;
+}
+.carousel2 {
+    max-width:1200px;
+    justify-content: center;
+}
+h1 {
+    font-family: sarah-script,sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align:center;
+    padding-top:25px;
+    font-size:55px;
+}
+.thingstodo {
+    text-align:center;
+    padding-top:45px;
+    padding-left:35px;
+    padding-right:35px;
+}
+.dining {
+    text-align:center;
+    padding-top:45px;
+    padding-left:35px;
+    padding-right:35px;
+}
+.shop {
+    text-align:center;
+    padding-top:45px;
+    padding-left:35px;
+    padding-right:35px;
+}
+h2 {
+    font-family: roc-grotesk,sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.images {
+    padding:25px;
+    text-align:center;
+}
+.title {
+    text-align:center;
+    padding-top:75px;
+}
+.paragraph {
+    text-align:center;
+    padding-left:45px;
+    padding-right:45px;
+}
+.color {
+    background-color:#323232;
+    min-height:20px;
+    margin-left:35px;
+    margin-right:35px;
+}
+.row {
+    --bs-gutter-x: 1.5rem;
+    --bs-gutter-y: 0;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: calc(var(--bs-gutter-y) * -1);
+    margin-right: calc(var(--bs-gutter-x)/ -2);
+    margin-left: calc(var(--bs-gutter-x)/ -2);
+    text-align: center; 
+    padding:25px
+}
+p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    text-align: left;
+}
+p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    text-align: center;
+    padding-left:35px;
+    padding-right:35px;
+    padding-top:25px;font-family: roc-grotesk,sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+    
